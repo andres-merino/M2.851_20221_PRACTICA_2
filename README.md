@@ -4,12 +4,12 @@ El presente repositorio contiene el código fuente y la memoría que se generó 
 
 ## Integrantes
 
-- Andrés Merino Toapanta
-- Mario Cueva Almeida
+- Andrés Merino Toapanta ([andres-merino](https://github.com/andres-merino))
+- Mario Cueva Almeida ([mcuevaa](https://github.com/mcuevaa))
 
 ## Archivos
 
-- [memoria.pdf](https://github.com/andres-merino/M2.851_20221_PRACTICA_1/blob/main/memoria.pdf): Contiene las respuestas a las preguntas planteadas en la práctica.
-- [source/código.ipynb](https://github.com/andres-merino/M2.851_20221_PRACTICA_1/blob/main/source/funciones.py): Contiene las funciones que se definieron para realizar la captura de datos.
-- [data/matches_1930_2022.csv](https://github.com/andres-merino/M2.851_20221_PRACTICA_1/blob/main/dataset/telefonos_xiaomi_ec.csv): Contiene los datos de los productos de la categoría "Celulares y Teléfonos" de MercadoLibre Ecuador que fueron extraidos
-- [data/matches_1930_2022_clean.csv](https://github.com/andres-merino/M2.851_20221_PRACTICA_1/blob/main/dataset/telefonos_xiaomi_ec.csv): Contiene los datos de los productos de la categoría "Celulares y Teléfonos" de MercadoLibre Ecuador que fueron extraidos
+- [memoria.pdf](https://github.com/andres-merino/M2.851_20221_PRACTICA_2/blob/main/memoria.pdf): Contiene las respuestas a las preguntas planteadas en la práctica.
+- [source/código.ipynb](https://github.com/andres-merino/M2.851_20221_PRACTICA_2/blob/main/source/codigo.ipynb): Contiene el código utilizado para responder lo solicitado en la práctica.
+- [data/matches_1930_2022.csv](https://github.com/andres-merino/M2.851_20221_PRACTICA_2/blob/main/data/matches_1930_2022.csv): Contiene los datos utilizados, antes de la limpieza.
+- [data/matches_1930_2022_clean.csv](https://github.com/andres-merino/M2.851_20221_PRACTICA_2/blob/main/data/matches_1930_2022_clean.csv): Contiene los datos utilizados, luego de aplicar la limpieza.
